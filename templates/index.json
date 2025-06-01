@@ -16,8 +16,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_14_48_32.png",
-        "mobile_image": "shopify://shop_images/74f4bd3c-300c-47f8-a16c-8b194bf84f14.png",
+        "image": "shopify://shop_images/ChatGPTImage14mai2025_15_45_10.png",
+        "mobile_image": "shopify://shop_images/ChatGPTImage14mai2025_15_45_10.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -87,7 +87,7 @@
         "logo_mWkQMQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/icon.webp",
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -95,7 +95,7 @@
         "logo_qtBiBr": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/54b8bf71-8045-4752-9d8e-c8fe6b1985e0.png",
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 140,
             "link": ""
           }
@@ -103,7 +103,7 @@
         "logo_LMwR6g": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/telechargement_5.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -111,7 +111,7 @@
         "logo_tpgVcW": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/telechargement_4.png",
+            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -126,7 +126,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur",
+        "title": "Gesehen bei:",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
@@ -135,7 +135,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#ffffff",
+        "logo_item_background": "#f2f2f2",
         "logo_item_border": ""
       }
     },
@@ -171,7 +171,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Amelioration.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -186,10 +185,6 @@
         "subheading": "",
         "title": "Résultat Avant / Après",
         "content": "",
-        "before_image": "shopify://shop_images/20250524_131945.jpg",
-        "before_image_mobile": "shopify://shop_images/20250524_131945.jpg",
-        "after_image": "shopify://shop_images/20250524_132122.jpg",
-        "after_image_mobile": "shopify://shop_images/20250524_132122.jpg",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
@@ -212,7 +207,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_09_18_00.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -226,7 +220,6 @@
         "item_CcaPcU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/vZbpKknhp0.jpg",
             "column_size": "3",
             "title": "Nathan X.",
             "heading_tag": "h4",
@@ -239,7 +232,6 @@
         "item_TiWJmA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Y9tzxNFe0_mid.jpg",
             "column_size": "3",
             "title": "Laura T.",
             "heading_tag": "h4",
@@ -252,7 +244,6 @@
         "item_YChCUm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/t_byjXsP1k.jpg",
             "column_size": "3",
             "title": "Paul J.",
             "heading_tag": "h4",
@@ -265,7 +256,6 @@
         "item_DgTQ9g": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3UQici_N.jpg",
             "column_size": "3",
             "title": "Pierre B.",
             "heading_tag": "h4",
@@ -278,7 +268,6 @@
         "item_HCtf4U": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/P54KFK49F.jpg",
             "column_size": "3",
             "title": "Hugo S.",
             "heading_tag": "h4",
@@ -339,7 +328,6 @@
         "image_a4wDpY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_09_47_54.png",
             "alignment": "center",
             "max_width": 290
           }
@@ -357,15 +345,8 @@
         "image_NmyTfN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_sous-titre_58720291-a7d2-4062-8daf-1b1bd2746fed.png",
             "alignment": "center",
             "max_width": 500
-          }
-        },
-        "kaching_bundles_app_block_CHekHH": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
           }
         },
         "buy_buttons_pLXVFU": {
@@ -382,7 +363,6 @@
         "image_R8N844": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Livraison_dans_toute_la_metropole.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -390,7 +370,6 @@
         "image_xUAmwK": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ezgif-5dc2d50d1f6a19.gif",
             "alignment": "center",
             "max_width": 330
           }
@@ -435,7 +414,6 @@
         "rating_7fMcDp",
         "separator_wrfNzy",
         "image_NmyTfN",
-        "kaching_bundles_app_block_CHekHH",
         "buy_buttons_pLXVFU",
         "image_R8N844",
         "image_xUAmwK",
@@ -583,23 +561,6 @@
     },
     "1747839663ab52e11b": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_UwKxmA": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_UwKxmA"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
