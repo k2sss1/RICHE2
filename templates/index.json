@@ -1,0 +1,628 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_hPFcYR": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_14_48_32.png",
+        "mobile_image": "shopify://shop_images/74f4bd3c-300c-47f8-a16c-8b194bf84f14.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h3",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 0,
+            "background": "#ffffff",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "image_with_text_overlay_4dfjTc": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_Dw4xhd": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_mWkQMQ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/icon.webp",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_qtBiBr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/54b8bf71-8045-4752-9d8e-c8fe6b1985e0.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_LMwR6g": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/telechargement_5.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_tpgVcW": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/telechargement_4.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_mWkQMQ",
+        "logo_qtBiBr",
+        "logo_LMwR6g",
+        "logo_tpgVcW"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_wry8Qd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_a9mjPT": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir cervi-soin ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_a9mjPT"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_LcMriL": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Amelioration.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "before_after_image_i7n6kf": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Résultat Avant / Après",
+        "content": "",
+        "before_image": "shopify://shop_images/20250524_131945.jpg",
+        "before_image_mobile": "shopify://shop_images/20250524_131945.jpg",
+        "after_image": "shopify://shop_images/20250524_132122.jpg",
+        "after_image_mobile": "shopify://shop_images/20250524_132122.jpg",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Apres",
+        "drag_initial_position": 52,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "image_with_text_overlay_Nf3AdE": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_09_18_00.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_JHHLmq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_CcaPcU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/vZbpKknhp0.jpg",
+            "column_size": "3",
+            "title": "Nathan X.",
+            "heading_tag": "h4",
+            "content": "<p>Mieux que je ne l'attendais .. Il a trois vitesses pour le massage, avec chargement USB, et il y a deux modes pour l'utiliser .. Pour étirer ton cou, tu dois le retourner... C'est impressionnant... Il vaut la peine d'acheter.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TiWJmA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Y9tzxNFe0_mid.jpg",
+            "column_size": "3",
+            "title": "Laura T.",
+            "heading_tag": "h4",
+            "content": "<p>J'ai récemment essayé le masseur cervical EMS avec chauffage et sa télécommande, et il est plutôt agréable pour soulager les tensions. Ce n'est pas comme un simple oreiller de massage ; il agit en profondeur, en ciblant vraiment les muscles du cou et de la colonne cervicale.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YChCUm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/t_byjXsP1k.jpg",
+            "column_size": "3",
+            "title": "Paul J.",
+            "heading_tag": "h4",
+            "content": "<p>Au top , je le fais chaque soir apres le boulot et je suis completement détendue</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DgTQ9g": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3UQici_N.jpg",
+            "column_size": "3",
+            "title": "Pierre B.",
+            "heading_tag": "h4",
+            "content": "<p>L'appareil fait très bonne impression et remplit sa fonction. Fortement recommandé !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HCtf4U": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/P54KFK49F.jpg",
+            "column_size": "3",
+            "title": "Hugo S.",
+            "heading_tag": "h4",
+            "content": "<p>Le produit est bien arrivé, j'ai essayé de l'utiliser et je dois dire qu'il m'a donné un soulagement de la douleur au cou, seulement avec 2 traitements je ressens l'amélioration, merci</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_CcaPcU",
+        "item_TiWJmA",
+        "item_YChCUm",
+        "item_DgTQ9g",
+        "item_HCtf4U"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_VniK9x": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_JiTNUW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    4.8 (589 avis)\n  </span>\n</div><style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #03DA8E;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>"
+          }
+        },
+        "title_reAj66": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "price_anjYGX": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_PX3pCg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n            <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">En stock : 5 restants</div>\n</div>\n          </div>"
+          }
+        },
+        "image_a4wDpY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_09_47_54.png",
+            "alignment": "center",
+            "max_width": 290
+          }
+        },
+        "rating_7fMcDp": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_wrfNzy": {
+          "type": "separator",
+          "settings": {}
+        },
+        "image_NmyTfN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_sous-titre_58720291-a7d2-4062-8daf-1b1bd2746fed.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "kaching_bundles_app_block_CHekHH": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "buy_buttons_pLXVFU": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "image_R8N844": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Livraison_dans_toute_la_metropole.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_xUAmwK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ezgif-5dc2d50d1f6a19.gif",
+            "alignment": "center",
+            "max_width": 330
+          }
+        },
+        "collapsible_text_4pEAFd": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Caractéristiques",
+            "content": "<p><strong>Matériau </strong>PU</p><p><strong>Couleur </strong>Bleu </p><p><strong>Capacité de la batterie</strong>1 500 mAh</p><p><strong>Tension d’entrée </strong>5 V</p><p><strong>Courant de charge </strong>5 V / 1 A</p><p><strong>Tension de fonctionnement </strong>3,7 V</p><p><strong>Poids du produit </strong>800 g</p><p><strong>Dimensions du colis</strong>225 × 210 × 115 mm</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_WXzryB": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Livraison gratuite et rapide à domicile",
+            "content": "<p>La livraison gratuite à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 3 et 5 jours ouvrés.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Pw86jn": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Service client 7 j/7",
+            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_JiTNUW",
+        "title_reAj66",
+        "price_anjYGX",
+        "liquid_PX3pCg",
+        "image_a4wDpY",
+        "rating_7fMcDp",
+        "separator_wrfNzy",
+        "image_NmyTfN",
+        "kaching_bundles_app_block_CHekHH",
+        "buy_buttons_pLXVFU",
+        "image_R8N844",
+        "image_xUAmwK",
+        "collapsible_text_4pEAFd",
+        "collapsible_text_WXzryB",
+        "collapsible_text_Pw86jn"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "masseur-cervical-cervimed",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "faq_kyArJ6": {
+      "type": "faq",
+      "blocks": {
+        "item_xhyWGC": {
+          "type": "item",
+          "settings": {
+            "title": "Quels types de douleur peut-il soulager ?",
+            "content": "<p>Il est idéal pour traiter les douleurs au cou, aux épaules et au haut du dos, la bosse du cou/bosse de douairière, la posture de la tête vers l'avant, le nerf pincé dans le cou, l'ATM, les céphalées de tension, les migraines.</p>"
+          }
+        },
+        "item_UBpDiX": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l'utiliser n'importe où ?",
+            "content": "<p>Oui, le masseur est entièrement portable et ne nécessite aucun câble.<br/><br/></p>"
+          }
+        },
+        "item_n9nhJc": {
+          "type": "item",
+          "settings": {
+            "title": "Peux-tu l'utiliser au lit ?",
+            "content": "<p>Oui, il peut être utilisé au lit : les fonctions de massage, de chauffage, d'électrostimulation et d'acupression fonctionnent également. Cependant, la technologie d'étirement ne fonctionnera pas, car elle nécessite une surface dure. Si vous avez du mal à vous allonger au sol, vous pouvez utiliser une couverture pour adoucir la surface. Ainsi, la technologie d'étirement fonctionnera efficacement.</p>"
+          }
+        },
+        "item_trNVek": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l'utiliser si j'ai un cou fusionné ?",
+            "content": "<p>Il est généralement recommandé d'éviter les étirements et les massages pendant les six mois suivant une arthrodèse cervicale. Par conséquent, si vous avez subi une arthrodèse cervicale au cours des six derniers mois, nous vous déconseillons d'utiliser le masseur , car votre cou est encore en convalescence. Au-delà de six mois, vous pouvez utiliser le masseur en toute sécurité.<br/></p>"
+          }
+        },
+        "item_KCFpaY": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle vitesse vais-je me sentir mieux ?",
+            "content": "<p>La douleur, la raideur et l'inconfort diminuent significativement dès la première séance (15 minutes). Pour des résultats durables, nous recommandons d'utiliser l'appareil pendant au moins 14 jours (15 minutes par jour).</p><p>90 % de nos clients ont complètement disparu de leurs douleurs cervicales, de leur bosse cervicale et/ou de leurs céphalées de tension après avoir utilisé le masseur CerviMed quotidiennement pendant 14 jours.</p><p>Traiter la cause profonde de la douleur exige avant tout de la constance.</p>"
+          }
+        },
+        "item_xXFXTD": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<p>1. Appuyez sur le bouton ON/OFF pour démarrer la machine.</p><p>2. Allongez-vous sur le masseur et réglez la température, le massage et le niveau EMS à celui qui vous convient le mieux.</p><p>3. Détendez-vous pendant 15 à 20 minutes pendant que le massage fait son effet.</p><p>4. Répétez quotidiennement pendant 7 à 14 jours, puis lorsque cela est nécessaire (chaque fois que vous commencez à ressentir une tension/douleur dans le cou).</p><p>Pour une explication plus détaillée, veuillez consulter la section « Service client » ou le manuel d'utilisation (version imprimée fournie avec le produit).</p><p>Si, par erreur, vous n'avez pas reçu de manuel d'utilisation avec votre produit, veuillez nous contacter à l'adresse</p>"
+          }
+        },
+        "item_t6anWD": {
+          "type": "item",
+          "settings": {
+            "title": "Comment est-il alimenté ?",
+            "content": "<p>Le masseur CerviMed dispose d'une batterie rechargeable intégrée, une batterie pleine dure 25 à 35 séances, une charge complète prend 3 à 5 heures (selon la source d'alimentation). Le câble de charge est inclus avec le produit.</p>"
+          }
+        },
+        "item_8fFkz6": {
+          "type": "item",
+          "settings": {
+            "title": "Cela apportera-t-il un soulagement à long terme ?",
+            "content": "<p>C'est précisément pour cette raison que nous avons créé cet appareil. Nous avons constaté que de nombreux appareils sur le marché offraient un soulagement à court terme, mais aucun n'offrait de solution durable. C'est pourquoi nous avons développé notre propre appareil pour soulager les douleurs cervicales, les raideurs, les maux de tête, les bosses cervicales et la posture avancée de la tête, pour des résultats durables.</p>"
+          }
+        },
+        "item_APgUdN": {
+          "type": "item",
+          "settings": {
+            "title": "Qu'est-ce que la garantie Satisfait ou Remboursé ?",
+            "content": "<p>Nous sommes si convaincus que vous allez adorer nos produits que nous offrons une garantie Satisfait ou Remboursé de 90 jours. Si vous n'êtes pas satisfait, nous vous rembourserons.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_xhyWGC",
+        "item_UBpDiX",
+        "item_n9nhJc",
+        "item_trNVek",
+        "item_KCFpaY",
+        "item_xXFXTD",
+        "item_t6anWD",
+        "item_8fFkz6",
+        "item_APgUdN"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Notre service clientèle est disponible 7 jours sur 7.",
+        "answer_time": "Temps de réponse moyen : 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_TQQWpF": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Une question?",
+        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.<br/><br/></p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "1747839663ab52e11b": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_UwKxmA": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_UwKxmA"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_hPFcYR",
+    "slideshow",
+    "image_with_text_overlay_4dfjTc",
+    "logo_list_Dw4xhd",
+    "rich_text_wry8Qd",
+    "image_with_text_overlay_LcMriL",
+    "before_after_image_i7n6kf",
+    "image_with_text_overlay_Nf3AdE",
+    "multi_column_JHHLmq",
+    "featured_product_VniK9x",
+    "faq_kyArJ6",
+    "contact_TQQWpF",
+    "1747839663ab52e11b"
+  ]
+}
