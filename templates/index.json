@@ -11,16 +11,27 @@
   "sections": {
     "image_with_text_overlay_hPFcYR": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_QEVRxM": {
+          "type": "heading",
+          "settings": {
+            "text": "La montre qui change vos matins.",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QEVRxM"
+      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPTImage14mai2025_15_45_10.png",
-        "mobile_image": "shopify://shop_images/ChatGPTImage14mai2025_15_45_10.png",
+        "image": "shopify://shop_images/16.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
+        "text_color": "#000000",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
@@ -87,7 +98,7 @@
         "logo_mWkQMQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
+            "logo": "shopify://shop_images/images.png",
             "logo_width": 300,
             "link": ""
           }
@@ -95,7 +106,7 @@
         "logo_qtBiBr": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo": "shopify://shop_images/EyeeQkMHxcYZDcY5Y_kCs6QRG0orw4lw-QqDSLUTV6EPOKwkTErTxtAIgdQh2SVGReIGWFrmmYgSiyEmT_kIFmngOjuh7DCNz1k_b5z-VEdV6xBPlFogepiRlCaNrE2PbQk4e3M3fIJSpxgXGwqaS7lb6ngndiaNTAeuvysYalrTlfx3ueR-kwC.jpg",
             "logo_width": 140,
             "link": ""
           }
@@ -103,7 +114,7 @@
         "logo_LMwR6g": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo": "shopify://shop_images/pZ-m9p-7RXMBgF3cKoVN3a8srLccamiiTnZD5Voao4Pswexw0qWxNYM2KWAAl0YG5W2Cc95mSSdD773-CHi_FdXKCvat9YgozTMl6IYR1_fVPsaBvPKYNSjAO4oXZsl-hk47fDoDkc88krZrab0AvT8R8u02juzrJ4zJtMbPUQBWHQ7_6d7x8uN.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -111,7 +122,7 @@
         "logo_tpgVcW": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo": "shopify://shop_images/3MMRXEoimSfmUdrHNNHgywnyP2Dip_aKv_s-rnpirg0wfd_CT6c2dqJ7ZJBlMEoXw_Q5HwSlL4N6xemX2YiTYPDBkt2jlZUbH19zehrrQzvfdpDtvhcSR8Qurs6O9iS6ERG3JdbsuGHtxqtv9udHi_5vreLwgvzP7Us8c4GXaNpBuMkxz6FLJ3b.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -126,7 +137,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Gesehen bei:",
+        "title": "Vue sur:",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
@@ -145,7 +156,7 @@
         "heading_a9mjPT": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir cervi-soin ?",
+            "text": "Pourquoi choisir Wake ?",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -178,26 +189,76 @@
         "overlay_opacity": 0
       }
     },
-    "before_after_image_i7n6kf": {
-      "type": "before-after-image",
+    "rich_text_gizCjH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_C66kzx": {
+          "type": "heading",
+          "settings": {
+            "text": "Des vibrations ciblées pour un réveil apaisé.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_C66kzx"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Résultat Avant / Après",
-        "content": "",
-        "expand_image": false,
+        "content_width": "small",
         "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Apres",
-        "drag_initial_position": 52,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
+      }
+    },
+    "video_6cADLk": {
+      "type": "video",
+      "blocks": {
+        "play_xCzKJV": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_CFRBMt": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_xCzKJV",
+        "heading_CFRBMt"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "image_with_text_overlay_ipHN4d": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "image_with_text_overlay_Nf3AdE": {
@@ -578,7 +639,9 @@
     "logo_list_Dw4xhd",
     "rich_text_wry8Qd",
     "image_with_text_overlay_LcMriL",
-    "before_after_image_i7n6kf",
+    "rich_text_gizCjH",
+    "video_6cADLk",
+    "image_with_text_overlay_ipHN4d",
     "image_with_text_overlay_Nf3AdE",
     "multi_column_JHHLmq",
     "featured_product_VniK9x",
