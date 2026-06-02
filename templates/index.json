@@ -247,14 +247,14 @@
     "multi_column_JHHLmq": {
       "type": "multi-column",
       "blocks": {
-        "item_CcaPcU": {
+        "item_YChCUm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/61rAPPTku2L._SY220.jpg",
+            "image": "shopify://shop_images/7a9207b3-4af9-42d8-b4b2-91f87b05c7bc.webp",
             "column_size": "3",
-            "title": "Nathan X.",
+            "title": "Paul J.",
             "heading_tag": "h4",
-            "content": "<p>Je pensais que les vibrations ne suffiraient pas… finalement je me réveille beaucoup plus facilement.</p>",
+            "content": "<p>J’adore, je peux me lever tôt sans réveiller mon partenaire.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -273,14 +273,14 @@
             "link_style": "link"
           }
         },
-        "item_YChCUm": {
+        "item_CcaPcU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/7a9207b3-4af9-42d8-b4b2-91f87b05c7bc.webp",
+            "image": "shopify://shop_images/61rAPPTku2L._SY220.jpg",
             "column_size": "3",
-            "title": "Paul J.",
+            "title": "Nathan X.",
             "heading_tag": "h4",
-            "content": "<p>J’adore, je peux me lever tôt sans réveiller mon partenaire.</p>",
+            "content": "<p>Je pensais que les vibrations ne suffiraient pas… finalement je me réveille beaucoup plus facilement.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -312,9 +312,9 @@
         }
       },
       "block_order": [
-        "item_CcaPcU",
-        "item_TiWJmA",
         "item_YChCUm",
+        "item_TiWJmA",
+        "item_CcaPcU",
         "item_DgTQ9g",
         "item_HCtf4U"
       ],
