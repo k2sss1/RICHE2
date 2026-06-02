@@ -247,10 +247,23 @@
     "multi_column_JHHLmq": {
       "type": "multi-column",
       "blocks": {
+        "item_CcaPcU": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/9bcf118941e94217a813682b4ac44ad9.HD-1080p-7.2Mbps-64107088.mp4",
+            "column_size": "3",
+            "title": "Nathan X.",
+            "heading_tag": "h4",
+            "content": "<p>Je pensais que les vibrations ne suffiraient pas… finalement je me réveille beaucoup plus facilement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_YChCUm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/7a9207b3-4af9-42d8-b4b2-91f87b05c7bc.webp",
+            "video": "shopify://files/videos/a343265885c241dbadc39f5a5336ed39.HD-1080p-4.8Mbps-67364385.mp4",
             "column_size": "3",
             "title": "Paul J.",
             "heading_tag": "h4",
@@ -263,7 +276,7 @@
         "item_TiWJmA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/e81e9665-2574-48e3-ad88-5ad873a65eb5.webp",
+            "video": "shopify://files/videos/0570f1073d634b57a54c32ccbfce8579.HD-1080p-7.2Mbps-64107717.mp4",
             "column_size": "3",
             "title": "Laura T.",
             "heading_tag": "h4",
@@ -273,38 +286,14 @@
             "link_style": "link"
           }
         },
-        "item_CcaPcU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/61rAPPTku2L._SY220.jpg",
-            "column_size": "3",
-            "title": "Nathan X.",
-            "heading_tag": "h4",
-            "content": "<p>Je pensais que les vibrations ne suffiraient pas… finalement je me réveille beaucoup plus facilement.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_DgTQ9g": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/a38cf57d1f6d4f37a096226a339568ba.HD-1080p-7.2Mbps-64107990.mp4",
             "column_size": "3",
-            "title": "Pierre B.",
+            "title": "Sara B.",
             "heading_tag": "h4",
             "content": "<p>Plus besoin d’avoir mon téléphone à côté du lit. Ça change tout. </p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_HCtf4U": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Hugo S.",
-            "heading_tag": "h4",
-            "content": "<p>Les vibrations sont douces mais assez fortes pour me réveiller. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -312,11 +301,10 @@
         }
       },
       "block_order": [
+        "item_CcaPcU",
         "item_YChCUm",
         "item_TiWJmA",
-        "item_CcaPcU",
-        "item_DgTQ9g",
-        "item_HCtf4U"
+        "item_DgTQ9g"
       ],
       "settings": {
         "full_width": true,
