@@ -250,6 +250,7 @@
         "item_CcaPcU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/61rAPPTku2L._SY220.jpg",
             "column_size": "3",
             "title": "Nathan X.",
             "heading_tag": "h4",
@@ -262,6 +263,7 @@
         "item_TiWJmA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/e81e9665-2574-48e3-ad88-5ad873a65eb5.webp",
             "column_size": "3",
             "title": "Laura T.",
             "heading_tag": "h4",
@@ -274,6 +276,7 @@
         "item_YChCUm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/7a9207b3-4af9-42d8-b4b2-91f87b05c7bc.webp",
             "column_size": "3",
             "title": "Paul J.",
             "heading_tag": "h4",
