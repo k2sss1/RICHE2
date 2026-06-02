@@ -31,9 +31,9 @@
         "image": "shopify://shop_images/16.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#000000",
+        "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 40
       }
     },
     "slideshow": {
@@ -325,7 +325,7 @@
         "liquid_JiTNUW": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    4.8 (589 avis)\n  </span>\n</div><style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #03DA8E;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>"
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_UqCNKi\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              \n\n\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #2E4147;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n\n\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </svg></span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8\n par +23000 Clientes !\n  </span>\n</div>\n\n<div id=\"shopify-block-AWFNNenlBR2N5d2ZuU__12657775114333427046\" class=\"shopify-block shopify-app-block\"><script>\n  \n    window.essentialCountdownTimerConfigs = [{\"id\":\"cm5fxhl2o7687191oz7wlmpf7\",\"name\":\"Timer urgence\",\"title\":\"\",\"customTitle\":\"\",\"endDate\":\"2025-01-03T22:57:00.000Z\",\"startDate\":\"2025-01-13T19:54:00.000Z\",\"subheading\":\"\",\"fixedMinutes\":\"20\",\"repeat\":false,\"timerType\":\"fixedMinutes\",\"type\":\"product-page\",\"published\":true,\"timerPlacement\":\"\",\"showOnProducts\":[],\"showOnCollections\":[],\"legendCopyDays\":\"Jours\",\"legendCopyHours\":\"Hrs\",\"legendCopyMins\":\"Mins\",\"legendCopySecs\":\"Secs\",\"CTAType\":\"\",\"CTALink\":\"\",\"closeButton\":false,\"buttonText\":\"\",\"updatedAt\":\"2025-01-13T19:54:38.614Z\",\"createdAt\":\"2025-01-02T22:59:20.267Z\",\"onceItEnds\":\"repeat\",\"style\":{\"font\":\"\",\"timerSize\":\"40\",\"titleSize\":\"28\",\"borderSize\":\"0\",\"legendSize\":\"14\",\"timerColor\":\"#202223\",\"titleColor\":\"#202223\",\"borderColor\":\"#c5c8d1\",\"gradientEnd\":\"#FFFFFF\",\"legendColor\":\"#6d7175\",\"singleColor\":\"#ffffff\",\"borderRadius\":\"8\",\"gradientTurn\":\"90\",\"gradientStart\":\"#DDDDDD\",\"backgroundType\":\"singleBackground\",\"subheadingSize\":\"16\",\"singleColorRgba\":\"rgba(255, 255, 255, 0)\",\"subheadingColor\":\"#202223\",\"insideTopSpacing\":\"0\",\"singleColorAlpha\":0,\"outsideTopSpacing\":\"20\",\"insideBottomSpacing\":\"0\",\"outsideBottomSpacing\":\"20\"},\"recurringDays\":[],\"startType\":\"today\",\"endType\":\"never\",\"productTags\":[],\"showInCountries\":[],\"locationType\":\"\",\"translations\":[],\"showOnProductsInCollections\":[],\"duration\":1200000},{\"id\":\"cm9ao9hgv00eetlfs9e10x7wk\",\"name\":\"Timer urgence - Copy\",\"title\":\"dernière chance !\",\"customTitle\":\"\",\"endDate\":\"2025-01-03T22:57:00.000Z\",\"startDate\":\"2025-04-10T01:32:00.000Z\",\"subheading\":\"\",\"fixedMinutes\":\"20\",\"repeat\":false,\"timerType\":\"fixedMinutes\",\"type\":\"product-page\",\"published\":true,\"timerPlacement\":\"\",\"showOnProducts\":[],\"showOnCollections\":[],\"legendCopyDays\":\"Jours\",\"legendCopyHours\":\"Hrs\",\"legendCopyMins\":\"Mins\",\"legendCopySecs\":\"Secs\",\"CTAType\":\"\",\"CTALink\":\"\",\"closeButton\":false,\"buttonText\":\"\",\"updatedAt\":\"2025-04-10T01:32:12.703Z\",\"createdAt\":\"2025-04-10T01:21:05.189Z\",\"onceItEnds\":\"repeat\",\"style\":{\"font\":\"\",\"timerSize\":\"40\",\"titleSize\":\"30\",\"borderSize\":\"0\",\"legendSize\":\"14\",\"timerColor\":\"#202223\",\"titleColor\":\"#202223\",\"borderColor\":\"#c5c8d1\",\"gradientEnd\":\"#FFFFFF\",\"legendColor\":\"#6d7175\",\"singleColor\":\"#ffffff\",\"borderRadius\":\"8\",\"gradientTurn\":\"90\",\"gradientStart\":\"#DDDDDD\",\"backgroundType\":\"singleBackground\",\"subheadingSize\":\"16\",\"singleColorRgba\":\"rgba(255, 255, 255, 0)\",\"subheadingColor\":\"#202223\",\"insideTopSpacing\":\"0\",\"singleColorAlpha\":0,\"outsideTopSpacing\":\"20\",\"insideBottomSpacing\":\"0\",\"outsideBottomSpacing\":\"20\"},\"recurringDays\":[],\"startType\":\"today\",\"endType\":\"never\",\"productTags\":[],\"showInCountries\":[],\"locationType\":\"\",\"translations\":[],\"showOnProductsInCollections\":[],\"duration\":1200000}];\n  \n  const essentialCollectionId = null;\n  window.essentialCountdownTimerMeta = {\n    productData: null,\n    productCollections: null,\n  };\n  window.essentialProductId = null\n  window.essentialProductTags = null\n  window.essentialCollectionId = null\n  window.essentialCountdownTimerPageTemplate = \"index\"\n  \n</script>\n\n\n\n<style>\n  .essential-countdown-timer-img-reset {\n    /* wipe common globals */\n    box-sizing: content-box;\n    display: inline;\n    width: auto;\n    height: auto;\n    max-width: none;\n    max-height: none;\n    margin: 0;\n    padding: 0;\n    border: none;\n    border-radius: 0;\n    box-shadow: none;\n    background: none;\n    object-fit: fill;\n    object-position: 50% 50%;\n    filter: none;\n    opacity: 1;\n    position: static;\n    float: none;\n    clear: none;\n    vertical-align: baseline;\n    transform: none;\n    transition: none;\n    animation: none;\n    /* typography sometimes leaks via universal selectors */\n    font: inherit;\n    line-height: normal;\n    letter-spacing: normal;\n    text-align: start;\n  }\n</style>\n\n\n</div><div id=\"shopify-block-AQmluZzRtdWVZZjkrT__11753626725791430220\" class=\"shopify-block shopify-app-block\"><!-- BEGIN app snippet: cart-drawer --><!-- END app snippet -->\n\n\n</div><div id=\"shopify-block-AdFFZaWdUNFpxVnM5T__2461320892803247993\" class=\"shopify-block shopify-app-block\"><div id=\"coco-body\">\n</div>\n     \n\n\n<script id=\"coco-bubble-script\" defer=\"\">\nconsole.log(\"[COCO] Coco Bubble - start\");\n\ndocument.bubbleSettings = {\"button_one\":\"J'ai besoin de conseils\",\"button_two\":\"Comment utiliser votre produit ?\",\"button_three\":\"\",\"delay\":5000,\"show_mobile_only\":false,\"show_notification_bubble\":false,\"disable_breathe\":true,\"show_ai_mention\":false,\"bubble_color\":\"#25d366\",\"whatsapp_message\":\"Salut, je suis en ligne!\",\"text_color\":\"white\",\"text_color_background\":\"#2E4147\",\"cross_notification_color\":\"white\",\"shop_pic\":\"https:\\/\\/i.ibb.co\\/PZV4XgGV\\/main-logo200x200.png\",\"shop_name\":\"\",\"status\":\"En ligne\",\"status_color\":\"green\",\"cross_color\":\"white\",\"header_color\":\"black\",\"buttons_color\":\"black\",\"whatsapp_message_inside\":\"Hello, je suis disponible si tu veux échanger!\",\"pre_message_input\":\"Écrire votre message\",\"tooltip_position\":\"full-coco-right\",\"custom_css\":\"\",\"path_filter\":\"\"};\nif(!document.bubbleSettings.shop_name) {\n  document.bubbleSettings.shop_name = \"ceralyne\";\n}\n\nconsole.log(\"[COCO] Coco Bubble - configuration loaded\");\n</script>\n\n\n<script src=\"https://dashboard.my-coco.ai/api/shopify/bubble/rzcjhn-1u.myshopify.com?paramsHash=f80746508a2781f19792bf8b9d10388220f467b3009a4e579a0a0c668ff26717\" defer=\"\"></script></div><div id=\"shopify-block-AakNoTzR0N0NkN3Z2W__11532412952436166569\" class=\"shopify-block shopify-app-block\">\n\n\n\t<!-- __LXV: 1779718699257;__LXR: https://loox.io;__LXC: L6q9TfY8da; --><script>var loox_global_hash = '1779718699257';</script><style>.loox-reviews-default { max-width: 1200px; margin: 0 auto; }.loox-rating .loox-icon { color:#00B67A; }\n:root { --lxs-rating-icon-color: #00B67A; }</style><svg xmlns=\"http://www.w3.org/2000/svg\" style=\"display: none\" id=\"loox-rating-icon-svg-store\">\n\t<defs></defs>\n\t<symbol id=\"looxicons-rating-icon-fill\" viewBox=\"0 0 24 24\" fill=\"currentcolor\">\n\t\t<path fill-rule=\"evenodd\" d=\"M2 0a2 2 0 0 0-2 2v20a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2Zm4.152 20.5L12 17.226l5.848 3.274-1.306-6.574 4.921-4.55-6.655-.79L12 2.5 9.192 8.586l-6.656.79 4.922 4.55L6.152 20.5Z\" clip-rule=\"evenodd\"></path>\n\t</symbol>\n\t<symbol id=\"looxicons-rating-icon-line\" viewBox=\"0 0 24 24\" fill=\"currentcolor\">\n\t\t<path fill-rule=\"evenodd\" d=\"M2 0a2 2 0 0 0-2 2v20a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2Zm4.152 20.5L12 17.226l5.848 3.274-1.306-6.574 4.921-4.55-6.655-.79L12 2.5 9.192 8.586l-6.656.79 4.922 4.55L6.152 20.5Z\" clip-rule=\"evenodd\" opacity=\".35\"></path>\n\t</symbol>\n\t<defs>\n\t\t<style>\n\t\t\t.lx-icon-fill {\n\t\t\t\t--lx-fill-width: calc(100% - var(--lx-rating-percent, 0%));\n\t\t\t\tclip-path: inset(0 var(--lx-fill-width, 0) 0 0);\n\t\t\t}\n\t\t\t.lx-icon-line {\n\t\t\t\tclip-path: inset(0 0 0 var(--lx-rating-percent, 0%));\n\t\t\t}\n\t\t\t[data-lx-fill='empty'] {\n\t\t\t\t--lx-rating-percent: 0%;\n\t\t\t}\n\t\t\t[data-lx-fill='half'] {\n\t\t\t\t--lx-rating-percent: 50%;\n\t\t\t}\n\t\t\t[data-lx-fill='full'] {\n\t\t\t\t--lx-rating-percent: 100%;\n\t\t\t}\n\t\t</style>\n\n\t\t<g id=\"looxicons-rating-icon\">\n\t\t\t<use href=\"#looxicons-rating-icon-line\" class=\"lx-icon-line\"></use>\n\t\t\t<use href=\"#looxicons-rating-icon-fill\" class=\"lx-icon-fill\"></use>\n\t\t</g>\n\t</defs>\n</svg>\n\n\n\n\n\n\n\n\n</div><div id=\"shopify-block-AaUVQZ3RJdytsVHRjb__3667842014806057753\" class=\"shopify-block shopify-app-block\"><!-- BEGIN app snippet: snippet -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n  \n\n  \n\n\n\n\n\n\n\n<!-- END app snippet -->\n\n\n</div>\n\n            </div></div>"
           }
         },
         "title_reAj66": {
@@ -340,34 +340,16 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_DqxBcD": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "liquid_PX3pCg": {
           "type": "liquid",
           "settings": {
             "liquid": "<div class=\"product-info__liquid\">\n            <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">En stock : 5 restants</div>\n</div>\n          </div>"
-          }
-        },
-        "image_a4wDpY": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 290
-          }
-        },
-        "rating_7fMcDp": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_wrfNzy": {
-          "type": "separator",
-          "settings": {}
-        },
-        "image_NmyTfN": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "max_width": 500
           }
         },
         "buy_buttons_pLXVFU": {
@@ -379,6 +361,14 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "image_a4wDpY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badgetrust2.avif",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "image_R8N844": {
@@ -401,7 +391,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Caractéristiques",
-            "content": "<p><strong>Matériau </strong>PU</p><p><strong>Couleur </strong>Bleu </p><p><strong>Capacité de la batterie</strong>1 500 mAh</p><p><strong>Tension d’entrée </strong>5 V</p><p><strong>Courant de charge </strong>5 V / 1 A</p><p><strong>Tension de fonctionnement </strong>3,7 V</p><p><strong>Poids du produit </strong>800 g</p><p><strong>Dimensions du colis</strong>225 × 210 × 115 mm</p>",
+            "content": "<p>Wake – Bracelet connecté<br/><br/>Matériau : Plastique léger<br/><br/>Matériau du bracelet : Silicone confortable<br/><br/>Type d’écran : IPS tactile<br/><br/>Taille de l’écran : 0,96 pouce<br/><br/>Résolution d’écran : 24 × 22 mm<br/><br/>Dimensions du produit : 24 × 22 × 10 mm<br/><br/>Autonomie de la batterie : Jusqu’à 21 jours<br/><br/>Système compatible : Android<br/><br/>Fonctions : Suivi d’activité, compteur de pas, calories, réveil<br/><br/>Type d’utilisation : Sport & quotidien<br/><br/>Écran : Tactile intelligent<br/><br/>Résistance à l’eau : Usage quotidien<br/><br/>Utilisateurs : Homme & Femme (unisexe)<br/><br/>Poids du colis : 500 g<br/><br/>Dimensions du colis : 110 × 30 × 90 mm<br/><br/>Style : Bracelet connecté sport & bien-être<br/><br/></p>",
             "page": ""
           }
         },
@@ -410,8 +400,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Livraison gratuite et rapide à domicile",
-            "content": "<p>La livraison gratuite à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 3 et 5 jours ouvrés.</p>",
+            "title": "Satisfait ou remboursé pendant 90 jours",
+            "content": "<p>Essayez Wake sans risque pendant 90 jours. Profitez pleinement de votre bracelet connecté au quotidien : si votre expérience ne vous satisfait pas, vous pouvez demander un remboursement intégral.</p>",
             "page": ""
           }
         },
@@ -430,12 +420,10 @@
         "liquid_JiTNUW",
         "title_reAj66",
         "price_anjYGX",
+        "liquid_DqxBcD",
         "liquid_PX3pCg",
-        "image_a4wDpY",
-        "rating_7fMcDp",
-        "separator_wrfNzy",
-        "image_NmyTfN",
         "buy_buttons_pLXVFU",
+        "image_a4wDpY",
         "image_R8N844",
         "image_xUAmwK",
         "collapsible_text_4pEAFd",
