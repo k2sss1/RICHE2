@@ -454,64 +454,43 @@
         "item_xhyWGC": {
           "type": "item",
           "settings": {
-            "title": "Quels types de douleur peut-il soulager ?",
-            "content": "<p>Il est idéal pour traiter les douleurs au cou, aux épaules et au haut du dos, la bosse du cou/bosse de douairière, la posture de la tête vers l'avant, le nerf pincé dans le cou, l'ATM, les céphalées de tension, les migraines.</p>"
+            "title": "Comment fonctionne exactement le réveil à vibration ?",
+            "content": "<p>Le bracelet utilise un moteur haptique qui émet des vibrations à l’heure programmée pour vous réveiller sans bruit. Contrairement aux alarmes sonores, les vibrations jouent directement sur les sensations physiques plutôt que sur l’ouïe</p>"
           }
         },
         "item_UBpDiX": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l'utiliser n'importe où ?",
-            "content": "<p>Oui, le masseur est entièrement portable et ne nécessite aucun câble.<br/><br/></p>"
+            "title": "Quelle est la vraie autonomie en mode réveil quotidien ?",
+            "content": "<p>L’autonomie peut aller jusqu’à 21 jours, selon l’utilisation : vibrations programmées une fois par jour et suivi d’activité minimal.</p>"
           }
         },
         "item_n9nhJc": {
           "type": "item",
           "settings": {
-            "title": "Peux-tu l'utiliser au lit ?",
-            "content": "<p>Oui, il peut être utilisé au lit : les fonctions de massage, de chauffage, d'électrostimulation et d'acupression fonctionnent également. Cependant, la technologie d'étirement ne fonctionnera pas, car elle nécessite une surface dure. Si vous avez du mal à vous allonger au sol, vous pouvez utiliser une couverture pour adoucir la surface. Ainsi, la technologie d'étirement fonctionnera efficacement.</p>"
+            "title": "La vibration est-elle suffisamment forte pour les gros dormeurs ?",
+            "content": "<p>Oui, l’intensité de la vibration est réglable et adaptée pour réveiller même les dormeurs profonds.</p>"
           }
         },
         "item_trNVek": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l'utiliser si j'ai un cou fusionné ?",
-            "content": "<p>Il est généralement recommandé d'éviter les étirements et les massages pendant les six mois suivant une arthrodèse cervicale. Par conséquent, si vous avez subi une arthrodèse cervicale au cours des six derniers mois, nous vous déconseillons d'utiliser le masseur , car votre cou est encore en convalescence. Au-delà de six mois, vous pouvez utiliser le masseur en toute sécurité.<br/></p>"
+            "title": "Quelles sont les conditions de garantie et de retour ?",
+            "content": "<p>Le produit est couvert par une garantie satisfait ou remboursé de 90 jours. Le retour est pris en charge selon les instructions fournies par le service client et le remboursement est complet.</p>"
           }
         },
         "item_KCFpaY": {
           "type": "item",
           "settings": {
-            "title": "À quelle vitesse vais-je me sentir mieux ?",
-            "content": "<p>La douleur, la raideur et l'inconfort diminuent significativement dès la première séance (15 minutes). Pour des résultats durables, nous recommandons d'utiliser l'appareil pendant au moins 14 jours (15 minutes par jour).</p><p>90 % de nos clients ont complètement disparu de leurs douleurs cervicales, de leur bosse cervicale et/ou de leurs céphalées de tension après avoir utilisé le masseur CerviMed quotidiennement pendant 14 jours.</p><p>Traiter la cause profonde de la douleur exige avant tout de la constance.</p>"
+            "title": "Le bracelet est-il étanche ?",
+            "content": "<p>Le bracelet dispose d’une protection contre l’eau de niveau IPX, suffisant pour la transpiration et les éclaboussures, mais pas pour la baignade prolongée.</p>"
           }
         },
         "item_xXFXTD": {
           "type": "item",
           "settings": {
-            "title": "Comment l'utiliser ?",
-            "content": "<p>1. Appuyez sur le bouton ON/OFF pour démarrer la machine.</p><p>2. Allongez-vous sur le masseur et réglez la température, le massage et le niveau EMS à celui qui vous convient le mieux.</p><p>3. Détendez-vous pendant 15 à 20 minutes pendant que le massage fait son effet.</p><p>4. Répétez quotidiennement pendant 7 à 14 jours, puis lorsque cela est nécessaire (chaque fois que vous commencez à ressentir une tension/douleur dans le cou).</p><p>Pour une explication plus détaillée, veuillez consulter la section « Service client » ou le manuel d'utilisation (version imprimée fournie avec le produit).</p><p>Si, par erreur, vous n'avez pas reçu de manuel d'utilisation avec votre produit, veuillez nous contacter à l'adresse</p>"
-          }
-        },
-        "item_t6anWD": {
-          "type": "item",
-          "settings": {
-            "title": "Comment est-il alimenté ?",
-            "content": "<p>Le masseur CerviMed dispose d'une batterie rechargeable intégrée, une batterie pleine dure 25 à 35 séances, une charge complète prend 3 à 5 heures (selon la source d'alimentation). Le câble de charge est inclus avec le produit.</p>"
-          }
-        },
-        "item_8fFkz6": {
-          "type": "item",
-          "settings": {
-            "title": "Cela apportera-t-il un soulagement à long terme ?",
-            "content": "<p>C'est précisément pour cette raison que nous avons créé cet appareil. Nous avons constaté que de nombreux appareils sur le marché offraient un soulagement à court terme, mais aucun n'offrait de solution durable. C'est pourquoi nous avons développé notre propre appareil pour soulager les douleurs cervicales, les raideurs, les maux de tête, les bosses cervicales et la posture avancée de la tête, pour des résultats durables.</p>"
-          }
-        },
-        "item_APgUdN": {
-          "type": "item",
-          "settings": {
-            "title": "Qu'est-ce que la garantie Satisfait ou Remboursé ?",
-            "content": "<p>Nous sommes si convaincus que vous allez adorer nos produits que nous offrons une garantie Satisfait ou Remboursé de 90 jours. Si vous n'êtes pas satisfait, nous vous rembourserons.</p>"
+            "title": "Le réveil par vibration peut-il déranger quelqu’un d’autre ?",
+            "content": "<p>Non, le réveil par vibration agit uniquement sur le porteur et ne produit aucun son externe.</p>"
           }
         }
       },
@@ -521,10 +500,7 @@
         "item_n9nhJc",
         "item_trNVek",
         "item_KCFpaY",
-        "item_xXFXTD",
-        "item_t6anWD",
-        "item_8fFkz6",
-        "item_APgUdN"
+        "item_xXFXTD"
       ],
       "settings": {
         "full_width": true,
@@ -547,26 +523,6 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "contact_TQQWpF": {
-      "type": "contact",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Une question?",
-        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.<br/><br/></p>",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
@@ -581,7 +537,6 @@
     "custom_liquid_cHPAac",
     "multi_column_JHHLmq",
     "featured_product_VniK9x",
-    "faq_kyArJ6",
-    "contact_TQQWpF"
+    "faq_kyArJ6"
   ]
 }
