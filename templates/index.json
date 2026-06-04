@@ -29,11 +29,11 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/16.webp",
-        "mobile_text_position": "place-self-center text-center",
+        "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 40
+        "overlay_opacity": 29
       }
     },
     "slideshow": {
