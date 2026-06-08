@@ -536,9 +536,9 @@
             "hide_thumbnails": false,
             "product_handle": "wake",
             "aggregated": true,
-            "data-limit": 3,
+            "data-limit": 5,
             "maxwidth": 1080,
-            "is_sample": true
+            "is_sample": false
           }
         }
       },
