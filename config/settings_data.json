@@ -51,6 +51,16 @@
         "type": "shopify://apps/rapi-tracking/blocks/app-embed/35108bf4-3d5b-4ce4-8a88-fcd48d6682ec",
         "disabled": false,
         "settings": {}
+      },
+      "9696655121035291526": {
+        "type": "shopify://apps/rapi/blocks/app-embed/99617c17-a32b-4e70-a883-7a155610d032",
+        "disabled": false,
+        "settings": {}
+      },
+      "17198465164502963513": {
+        "type": "shopify://apps/parcelwill-parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
